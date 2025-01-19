@@ -1,0 +1,12 @@
+{
+  "name": "@devzeng/rsa",
+  "version": "0.1.0",
+  "description": "rsa encrypt/decrypt for HarmonyOS",
+  "main": "Index.ets",
+  "author": "zengjing <hhtczengjing@gmail.com>",
+  "homepage": "https://github.com/hhtczengjing/ohos_rsa",
+  "repository": "https://github.com/hhtczengjing/ohos_rsa.git",
+  "keywords": [ "rsa" ],
+  "license": "MIT",
+  "dependencies": {}
+}
